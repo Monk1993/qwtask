@@ -1,0 +1,15 @@
+D:\Task_6\D_z\bin\Debug\net6.0\D_z.exe
+D:\Task_6\D_z\bin\Debug\net6.0\D_z.deps.json
+D:\Task_6\D_z\bin\Debug\net6.0\D_z.runtimeconfig.json
+D:\Task_6\D_z\bin\Debug\net6.0\D_z.dll
+D:\Task_6\D_z\bin\Debug\net6.0\D_z.pdb
+D:\Task_6\D_z\obj\Debug\net6.0\D_z.csproj.AssemblyReference.cache
+D:\Task_6\D_z\obj\Debug\net6.0\D_z.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task_6\D_z\obj\Debug\net6.0\D_z.AssemblyInfoInputs.cache
+D:\Task_6\D_z\obj\Debug\net6.0\D_z.AssemblyInfo.cs
+D:\Task_6\D_z\obj\Debug\net6.0\D_z.csproj.CoreCompileInputs.cache
+D:\Task_6\D_z\obj\Debug\net6.0\D_z.dll
+D:\Task_6\D_z\obj\Debug\net6.0\refint\D_z.dll
+D:\Task_6\D_z\obj\Debug\net6.0\D_z.pdb
+D:\Task_6\D_z\obj\Debug\net6.0\D_z.genruntimeconfig.cache
+D:\Task_6\D_z\obj\Debug\net6.0\ref\D_z.dll
