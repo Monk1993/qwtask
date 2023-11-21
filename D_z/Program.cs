@@ -53,3 +53,31 @@ int ReadInt(string message)
   Console.Write(message);
   return Convert.ToInt32(Console.ReadLine());
 }
+
+
+ void PrintArray2D (int [,] array)
+    {
+      
+   for (int i = 0; i < array.GetLength(0); i++)
+   {
+    for (int j = 0; j < array.GetLength(1); j++)
+    {
+       Console.Write(array[i,j] + " " ); 
+    }
+    Console.WriteLine();
+
+    }
+
+    Console.WriteLine();
+   }   
+
+   void FillIntArray2DRandomNumbers(int[,] array, Random randomizer)
+   {
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+          array[i, j] = randomizer.Next(0,10); 
+        }
+    }
+   }
